@@ -4,6 +4,47 @@ If you know another programming language that is not included, feel free to cont
 Also please contact me if you discover any mistakes in the code.
 
 # Programming languages
-List will be published soon...
+### A
+    A+
+    A#
+    ABAP
+    ABC
+    Action!
+    ActionScript
+    Actor
+    Actum
+    Ada
+    Afnix
+    Agena
+    Aldor
+    Aleph
+    Algae
+    Algo
+    ALGOL
+    Alma-0
+    Alphard
+    Altran
+    AmigaE
+    AMPL
+    ANI
+    Anubis
+    ApeScript
+    APL
+    AppleScript
+    APT
+    Arduino
+    Argos
+    ARS++
+    Asm.js
+    AspectJ
+    Assembly
+    ATLAS
+    Autocode
+    AutoIt
+    Avail
+    Averest
+    AWK
+    Axiom
+
 
 
