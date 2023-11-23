@@ -46,5 +46,74 @@ Also please contact me if you discover any mistakes in the code.
     AWK
     Axiom
 
+### B
+
+    B
+    Bash
+    BASIC
+    BAL
+    BCPL
+    BeanShell
+    BETA
+    Bigwig
+    Bistro
+    BLISS
+    Blockly
+    Boo
+    Bosque
+    Bourne shell
+    Bournegol
+    BPEL
+
+### C
+
+    C
+    C--
+    C++
+    C#
+    C Shell
+    Caché ObjectScript
+    Caml
+    Cayenne
+    Cecil
+    Cedar
+    Ceylon
+    CFScript
+    Cg
+    Chapel
+    Charity
+    CHILL
+    CHR
+    ChucK
+    Cilk
+    Clarion
+    Clay
+    Clean
+    Clipper
+    CLIPS
+    Clojure
+    CLOS
+    CLU
+    Cobol
+    Code
+    CoffeeScript
+    ColdFusion
+    COMAL
+    CIL
+    Common Lisp
+    Component Pascal
+    COMIT
+    Cool
+    Coral66
+    COWSEL
+    CPL
+    Crack
+    Crystal
+    Csh
+    Curl
+    Curry
+    Cyclone
+
+
 
 
