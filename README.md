@@ -14,8 +14,12 @@ Also please contact me if you discover any mistakes in the code.
     Actor
     Actum
     Ada
+    AdvPL
     Afnix
     Agena
+    AIMMS
+    AIT
+    Aivosto Analyzer
     Aldor
     Aleph
     Algae
